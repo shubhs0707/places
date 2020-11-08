@@ -7,4 +7,4 @@ App demonstarting use of flutter, firebase, native device features (camera) and 
 ![](https://media.giphy.com/media/dXRbOL03tgnchXoGLg/giphy.gif)
 ![](https://media.giphy.com/media/kWRMwIVUneIilkTdzg/giphy.gif)
 
-- [Download APK](https://github.com/shubhs0707/places/raw/master/app-release.apk)
+- [Download APK](https://github.com/shubhs0707/places/raw/main/app-release.apk)
