@@ -11,7 +11,7 @@ class PlacesListScreen extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Your Places'),
+          title: const Text('Your Places'),
           actions: [
             IconButton(
                 icon: Icon(Icons.add),

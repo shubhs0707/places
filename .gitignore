@@ -30,6 +30,8 @@
 .pub-cache/
 .pub/
 /build/
+lib/helpers/location_helper.dart
+android/app/src/main/AndroidManifest.xml
 
 # Web related
 lib/generated_plugin_registrant.dart
@@ -39,3 +41,6 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+
+# Android related
+**/android/key.properties

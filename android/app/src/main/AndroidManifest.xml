@@ -1,7 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.places">
+    package="com.bozobaka.places">
+   <uses-permission android:name="android.permission.INTERNET"/>
+   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
    <application
-        android:label="places"
+        android:label="My Places"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
                android:value="AIzaSyA_Zdlro6_cfCbXoRjn1mTLbB9ils3v8lQ"/>
